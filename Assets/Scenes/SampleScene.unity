@@ -347,7 +347,7 @@ Terrain:
   m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 5
   m_TreeMaximumFullLODCount: 50
-  m_DetailObjectDistance: 80
+  m_DetailObjectDistance: 133
   m_DetailObjectDensity: 1
   m_HeightmapPixelError: 5
   m_SplatMapDistance: 1000
@@ -430,7 +430,7 @@ CharacterController:
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 1.09, z: 0}
 --- !u!114 &1372708641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -462,8 +462,8 @@ Transform:
   m_GameObject: {fileID: 1372708639}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 250, y: 63.08, z: 69.98}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 250, y: 60.69, z: 69.98}
+  m_LocalScale: {x: 0.603076, y: 0.603076, z: 0.603076}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2094994339}
